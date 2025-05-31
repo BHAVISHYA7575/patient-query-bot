@@ -1,0 +1,2 @@
+Prompt: Generate a patient FAQ response: List the documents required for a clinic visit in a clear, concise format.
+Response: Required documents: valid photo ID, insurance card, medical history records, referral letter (if applicable).

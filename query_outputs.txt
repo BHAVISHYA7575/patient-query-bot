@@ -1,0 +1,8 @@
+Query: What documents do I need for a clinic visit?
+Response: Valid ID, insurance card, medical records, referral letter.
+
+Query: How should I take my prescribed medication?
+Response: Follow doctor's dosage and timing instructions. Take with food/water if needed. Ask pharmacist for clarification.
+
+Query:
+Response: Error: Query cannot be empty.
